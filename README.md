@@ -1,3 +1,3 @@
 # homepage
 
-trashfish.cc
+[trashfish.cc](trashfish.cc)
